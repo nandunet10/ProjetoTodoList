@@ -1,0 +1,9 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/todo-list-webapi/bin
+/todo-list-webapi/obj
+/todo-list-webapi/Migrations
+/todo-list-webapi/Properties/PublishProfiles
